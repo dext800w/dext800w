@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**dext800w/dext800w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里是你的个人介绍...
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☕ 赞助开发者 / Buy me a coffee
+
+如果你觉得我的项目对你有帮助，欢迎请我喝杯咖啡！
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./wechat.png" width="200px" />
+      <br />
+      <strong>微信支付 (WeChat)</strong>
+    </td>
+    <td align="center">
+      <img src="./alipay.png" width="200px" />
+      <br />
+      <strong>支付宝 (Alipay)</strong>
+    </td>
+  </tr>
+</table>
