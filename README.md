@@ -19,6 +19,10 @@
       <img src="./alipay.png" width="200px" />
       <br />
       <strong>支付宝 (Alipay)</strong>
+    <td align="center">
+      <img src="./bmc.png" width="200px" />
+      <br />
+      <strong>buymeacoffee</strong>
     </td>
   </tr>
 </table>
